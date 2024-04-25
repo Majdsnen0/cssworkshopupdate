@@ -1,0 +1,64 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.test{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 33px;
+}
+.cen{
+    text-align: center;
+}
+.for0{
+    text-align: center;
+    line-height: 28.8px;
+    background-color: #00b39b;
+    border-radius: 5%;
+    color: aliceblue;
+}
+.for1{
+    text-align: center;
+    line-height: 28.8px;
+    background-color: #3d83df;
+    color: aliceblue;
+    border-radius: 28px;
+}
+.for2{
+    text-align: center;
+    color: aliceblue;
+    line-height: 28.8px;
+    background-color: #1b2734;
+    border-radius: 28px;
+}
+.For{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Whygreen{
+    text-align: left;
+}
+.icnx{
+        align-items: left;
+        display: flex;
+        position: static;
+        justify-content: space-between;
+        font-size: 0;
+        list-style: none;
+        width: 28%;
+}
+.ff{
+    display: flex;
+    line-height: 28.8px;
+    font-size: 19px;
+}
+#ID2{
+    color: #00b39b;
+}
+#ID3{
+    color: #00b39b;
+    font-size: 25px;
+}
